@@ -1,7 +1,9 @@
 {
 	"version" : 1.01,
-	"url" : "https://download1334.mediafire.com/we5f957ghxbgJhVV31UwTvrns44zZnrRBagJAZada1fJen_MfsFGQRgp7HWxQcaJ3TuQUoSubcMe_MhQ8Z6DZ8-M9IARXkYonH8_zJT5Hcg5Dp0pnllABe_yk0I3rpAbR_gRLl3Kf26ZQ2tQ7bszjj10O_fuKWHPeVYkkkaWw7ZXstM/cryvybzu6s4wbz3/Hellfire.zip",
+	"url" : "https://download1334.mediafire.com/rv8k1h5xzztgDphA7muhv0Vcjjx7CL_ldn7klXrvSyqhpBqavuNU_vicx6G5Dgu7f2AunKhGAnKlzd8XQ-67Khor3A2z7E7JJTEJGxJJP89LIeIbeGVIfhCVb9toXYMv5pAKdBRUEnKn_Wnp1OLYYgED_Mvv-sFFIhZ1rRNnRDAZDJQ/cryvybzu6s4wbz3/Hellfire.zip",
 	"patch" : 1.29,
 	"discord" : "https://discord.gg/pQub3a8vCN",
-	"website" : "https://fiesta.gamigo.com"
+	"website" : "https://fiesta.gamigo.com",
+	"file_name" : "Fiesta.exe"
+	"patcher_name" : "Hellfire Patcher.exe"
 }
