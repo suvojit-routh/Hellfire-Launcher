@@ -13,9 +13,5 @@
 	"patch_btn_hover_color" : "#00ff79",
 	"download_btn_hover_color" : "#00ff79",
 	"uninstall_btn_hover_color" : "#00ff79",
-	"btn_text_color" : "white",
-
-	
-	
-	
+	"btn_text_color" : "white"	
 }
