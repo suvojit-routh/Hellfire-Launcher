@@ -5,5 +5,17 @@
 	"discord" : "https://discord.gg/pQub3a8vCN",
 	"website" : "https://fiesta.gamigo.com",
 	"file_name" : "Fiesta.exe",
-	"patcher_name" : "Hellfire Patcher.exe"
+	"patcher_name" : "Hellfire Patcher.exe",
+	
+	"btn_bg_color" : "#212121",
+	"launcher_btn_hover_color" : "#00ff79",
+	"update_btn_hover_color" : "#00ff79",
+	"patch_btn_hover_color" : "#00ff79",
+	"download_btn_hover_color" : "#00ff79",
+	"uninstall_btn_hover_color" : "#00ff79",
+	"btn_text_color" : "white",
+
+	
+	
+	
 }
