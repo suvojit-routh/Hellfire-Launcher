@@ -23,5 +23,5 @@
 	"topbar_btn_text_color" : "white",
 
 	"downloading_progreesbar_color" : "red",
-	"extracting_progressbar_color" : "cyan"
+	"extracting_progressbar_color" : "yellow"
 }
