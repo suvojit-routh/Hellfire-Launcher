@@ -13,5 +13,15 @@
 	"patch_btn_hover_color" : "#00ff79",
 	"download_btn_hover_color" : "#00ff79",
 	"uninstall_btn_hover_color" : "#00ff79",
-	"btn_text_color" : "white"	
+	"btn_text_color" : "white",
+
+	"home_btn_hover_color" : "orange",
+	"discord_btn_hover_color" : "orange",
+	"website_btn_hover_color" : "orange",
+	"manage_btn_hover_color" : "orange",
+	"quit_btn_hover_color" : "orange",
+	"topbar_btn_text_color" : "white",
+
+	"downloading_progreesbar_color" : "red",
+	"extracting_progressbar_color" : "cyan"
 }
